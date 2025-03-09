@@ -17,8 +17,11 @@ By implementing this change, Dunkin' Donuts can **reduce operational costs** whi
 
 ## 📎 Project Files  
 📂 **`Cost_Reduction_Project1.ipynb`** – Python code for cost analysis and visualizations.  
+
 📂 **`Cost_Reduction_Project_DD1.pptx`** – PowerPoint presentation summarizing the findings.
+
 📂 **`README.md`** – This documentation file.
+
 📂 **`LICENSE`** – The license of this project.
 
 ---
@@ -29,4 +32,4 @@ If you'd like to test different cost scenarios, **just let me know**, and I can 
 ---
 
 ## 🔗 Connect with Me  
-📌 **LinkedIn:** [Mathias Ortiz](https://www.linkedin.com/in/mathiasortiz/)  
+📌 **LinkedIn:** [Mathias Ortiz](https://www.linkedin.com/in/mathiasortiz/)
