@@ -33,3 +33,9 @@ If you'd like to test different cost scenarios, **just let me know**, and I can 
 
 ## 🔗 Connect with Me  
 📌 **LinkedIn:** [Mathias Ortiz](https://www.linkedin.com/in/mathiasortiz/)
+
+---
+
+## 🙌 Acknowledgment  
+Special thanks to **Saray Silva** for contributing valuable ideas to this project, particularly in the development of the Welcome Kit concept to enhance employee engagement.
+
